@@ -1,9 +1,4 @@
 #https://github.com/duo-labs/cloudmapper
-#la subred publica 1 es la que tiene acceso a internet
-
-# revisar las reglas de salida de los grupos de seguridad
-# no es un puerto como tal sino un grupo de seguridad definido
-# revisar las copias de seguridad de la base de datos
 
 /*
 instancia ec2
