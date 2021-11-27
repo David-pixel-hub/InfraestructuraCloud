@@ -1,11 +1,3 @@
-#https://github.com/duo-labs/cloudmapper
-
-/*
-instancia ec2
-instancia db
-almancenamiento instancia 100 gb
-*/
-
 provider "aws" {
   region = var.region
 }
