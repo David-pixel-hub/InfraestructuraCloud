@@ -1,2 +1,2 @@
 # ProyectoAWS
-proyecto area adminsitracion
+Proyecto area adminsitracion
